@@ -4,7 +4,7 @@ I'm a Computer Science + Statistics student at the University of North Carolina 
 
 ## 🚀 About Me
 - 📚 **CS + Stats @ UNC-Chapel Hill** | Coursework: Data Structures, Machine Learning, Web Development, Algorithms, Artificial Intelligence, Machine Learning, Robotics
-- 💡 Passionate about **startups, full-stack development, and AI applications**
+- 💡 Passionate about **modern web development, UI/UX design, and interactive applications**
 - 🌎 Vice President External of an **Asian-interest fraternity**, promoting community and leadership
 - 👥 Member of **CS+SG (Computer Science + Social Good)**, developing software with a social impact focus
 - 🌐 Web Developer for **unclambdas.com**
@@ -16,16 +16,16 @@ I'm a Computer Science + Statistics student at the University of North Carolina 
 
 ## 🏗️ Featured Projects
 ### 📊 Student Support Platform
-A web app that **streamlines student-professor communication** by centralizing FAQs, reducing redundant questions.
+A web app that streamlines student-professor communication by centralizing FAQs, reducing redundant questions.
 - **Tech Stack:** Angular, FastAPI, SQLAlchemy, PostgreSQL
   
 ### 📱 BAC Buddy *(In Progress)*
-A mobile app designed to help college students track their **Blood Alcohol Concentration (BAC)** in real-time, promoting responsible drinking habits.
+A mobile app designed to help college students track their Blood Alcohol Concentration (BAC) in real-time, promoting responsible drinking habits.
 - **Tech Stack:** React Native (Expo), Express.js, PostgreSQL
 
 ### 🤖 CS Career Path Analyzer
-A **machine learning model** that predicts the likelihood of getting a CS job based on skills and education.
-- **Built with:** Random Forest, Python, Streamlit, scikit-learn
+A machine learning model that predicts the likelihood of getting a CS job based on skills and education.
+- **Tech Stack:** Random Forest, Python, Streamlit, scikit-learn
 - 🔗 [Demo](https://comp562-final.streamlit.app/) | [Repo](https://github.com/kylerc405/comp562-final-project)
 
 ## 📫 Get in Touch
